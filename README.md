@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @softy-254
+- 👋 Hi, I’m Peter Muriuki
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python mastery
 - 💞️ I’m looking to collaborate on mobile, desktop and  web developmet. Am also looking forward to studying different fields of python like AI, DATA SCIENCE,MACHINE           LEARNING,HACKING AND EMBEDDED APPLCATION
