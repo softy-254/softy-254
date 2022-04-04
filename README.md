@@ -2,7 +2,8 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python mastery
 - 💞️ I’m looking to collaborate on mobile, desktop and  web developmet. Am also looking forward to studying different fields of python like AI, DATA SCIENCE,MACHINE           LEARNING,HACKING AND EMBEDDED APPLCATION
-- 📫 YOU can reach me through email: pm291987@gmail.com, phone: 0718577070
+- 📫 YOU can reach me through email: pm291987@gmail.com
+-  phone: 0718577070
 - 
 
 <!---
