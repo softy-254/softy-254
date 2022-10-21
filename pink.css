@@ -1,0 +1,48 @@
+.aside .logo a::before{
+    border-top: 4px solid rgb(70, 192, 22);
+    border-left: 4px solid rgb(70, 192, 22);
+}
+
+.aside .logo a::after{
+    border-bottom: 4px solid rgb(70, 192, 22);
+    border-right: 4px solid rgb(70, 192, 22);
+}
+.service .service-item .service-item-inner .icon .fa,
+.about .about-content .about-text h3 span,
+.aside .nav li a:hover,
+.aside nav li a.active {
+    color: rgb(70, 192, 22);
+}
+.service .service-item .service-item-inner:hover .icon{
+    color: rgb(153, 153, 74);
+}
+.about .about-content .timeline .circle-dot,
+
+.about .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+
+.aside .nav-toggler span::after,
+.home .intro .social-links a,
+.about .about-content .timeline::before,
+.about .about-content .timeline::after,
+.section-title h2::before,
+.section-title h2::after{
+    
+    
+    background-color: rgb(70, 192, 22);
+}
+.about .about-content .about-text h3 span,
+.about .about-content .about-text h3,
+.about .about-content .about-text p{
+    color: blue;
+   
+}
+
+.service .service-item .service-item-inner .icon .fa{
+    color: red;
+}
+
+
+
